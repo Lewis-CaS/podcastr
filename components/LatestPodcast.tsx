@@ -39,7 +39,7 @@ const LatestPodcast = ({ imgUrl, title, duration, views, audioUrl, index, podcas
                 <div className='flex items-center gap-5'>
                     <p className='hidden lg:block'>{index + 1}</p>
                     <Image 
-                        src="/icons/play.svg"
+                        src="/icons/Play.svg"
                         width={24}
                         height={24}
                         alt='Play'
